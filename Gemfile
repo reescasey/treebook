@@ -8,8 +8,7 @@ gem 'rails', '3.2.7'
 gem 'sqlite3'
 
 gem 'psych'
-
-gem "high_voltage"
+gem 'devise'
 
 
 # Gems used only for assets and not required
